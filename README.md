@@ -1,6 +1,6 @@
 # Wall-E Search: DFS, BFS, and A* on a 100×100 Grid
 
-A Java implementation (University of Pretoria AI module) and comparative analysis of three classic search algorithms — Depth-First Search, Breadth-First Search, and A* — solving a pathfinding problem on a 100×100 grid. Built for a Computer Science AI module (COS314) at the University of Pretoria.
+A Java implementationand comparative analysis of three classic search algorithms — Depth-First Search, Breadth-First Search, and A* — solving a pathfinding problem on a 100×100 grid. Built for a Computer Science AI module at the University of Pretoria.
 
 ## Problem
 
@@ -38,8 +38,7 @@ h(n) = |x1 - x2| + |y1 - y2|
 ├── SearchResult.java    # Stores algorithm output (path, nodes visited, execution time)
 ├── DFS.java             # Depth-First Search implementation
 ├── BFS.java             # Breadth-First Search implementation
-├── AStar.java           # A* Search implementation
-└── Assignment1.jar      # Compiled executable JAR
+└──  AStar.java           # A* Search implementation
 ```
 
 ## How to compile and run
