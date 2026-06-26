@@ -1,6 +1,6 @@
 # Wall-E Search: DFS, BFS, and A* on a 100×100 Grid
 
-A Java implementationand comparative analysis of three classic search algorithms — Depth-First Search, Breadth-First Search, and A* — solving a pathfinding problem on a 100×100 grid. Built for a Computer Science AI module at the University of Pretoria.
+A Java implementationand comparative analysis of three classic search algorithms: Depth-First Search, Breadth-First Search, and A* to solve a pathfinding problem on a 100×100 grid. Built for a Computer Science AI module at the University of Pretoria.
 
 ## Problem
 
